@@ -3,7 +3,7 @@ I welcome everyone enjoy the code, tech is for everyone.
 But ask for my promission if you want to use the code for some money purposes.
 - 👀 I’m interested in drawing and any digital art. Want to make erotic games.
 - 🌱 I’m currently learning management in a Ritsumeikan Aisa Paciffic University in Japan.
-Chinese, English and Japanese are all Ok. I am learning Spainish now.
+Chinese, English and Japanese are all Ok.
 - 📫 How to reach me ...
 QQ:
 2017574133

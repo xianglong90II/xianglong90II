@@ -3,7 +3,7 @@
 <p>Chinese, English and Japanese are all Ok.</p>
 <p> 
 I am not good at any coding stuffs and I am not good at any Math stuffs.<br>
-My Telegram (written in Chinese): https://t.me/HeadquarterX2 </p>
+My Telegram (written in Chinese):https://t.me/HquarterX2 </p>
 
 <h2>Licenses</h2> 
   Japanese Level Proficiency Test N1 (日本語能力試験N1)<br>

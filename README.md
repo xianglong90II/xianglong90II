@@ -11,5 +11,6 @@ My Telegram (written in Chinese): https://t.me/HeadquarterX2 </p>
   Basic Information Technology Engineer in Japan (基本情報技術者)<br>
 <b>I am preparing to take:</b><br>
   Applied Information Technology Engineer in Japan (応用情報技術者)<br>
-  The Third Class Chief Electrical Engineer in Japan (第三種電気主任技術者) <br>
+  Bukki3 Accounting Cerciticate in Japan (日商簿記３) <br>
+  Azure AI Fundimentals
 <h2></h2>

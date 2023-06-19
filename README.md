@@ -13,4 +13,6 @@ My Telegram (written in Chinese):https://t.me/HquarterX2 </p>
   Applied Information Technology Engineer in Japan (応用情報技術者)<br>
   Bukki3 Accounting Cerciticate in Japan (日商簿記３) <br>
   Azure AI Fundimentals
-<h2></h2>
+<h2>Skill Stacks</h2>
+  Python, Html, Go, C#......
+  Blender, Krita, Video editing and some other art stuffs

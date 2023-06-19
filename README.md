@@ -14,5 +14,5 @@ My Telegram (written in Chinese):https://t.me/HquarterX2 </p>
   Bukki3 Accounting Cerciticate in Japan (日商簿記３) <br>
   Azure AI Fundimentals
 <h2>Skill Stacks</h2>
-  Python, Html, Go, C#......
+  Python, Html, Go, C#......<br>
   Blender, Krita, Video editing and some other art stuffs

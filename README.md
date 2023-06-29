@@ -11,7 +11,7 @@ My Telegram (written in Chinese):https://t.me/HquarterX2 </p>
   Basic Information Technology Engineer in Japan (基本情報技術者)<br>
   Applied Information Technology Engineer in Japan (応用情報技術者)<br>
 <b>I am preparing to take:</b><br>
-  Bukki3 Accounting Cerciticate in Japan (日商簿記３) <br>
+  Boki3 Accounting Cerciticate in Japan (日商簿記３) <br>
   Azure AI Fundimentals
 <h2>Skill Stacks</h2>
   Python, Html, R, Go, C#......<br>

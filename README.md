@@ -12,7 +12,8 @@ My Telegram (written in Chinese):https://t.me/HquarterX2 </p>
   Applied Information Technology Engineer in Japan (応用情報技術者)<br>
 <b>I am preparing to take:</b><br>
   Boki3 Accounting Cerciticate in Japan (日商簿記３) <br>
-  Azure AI Fundimentals
+  Azure AI Fundimentals <br>
+  RISS（Registered Information Security Specialist）in Japan (情報処理安全確保支援士)
 <h2>Skill Stacks</h2>
   Python, Html, R, Go, C#......<br>
   Blender, Krita, Video editing and some other art stuffs

@@ -7,9 +7,9 @@ My Telegram (written in Chinese):https://t.me/HquarterX2 </p>
 
 <h2>Licenses</h2> 
   Japanese Level Proficiency Test N1 (日本語能力試験N1)<br>
-  Information Security Management in Japan (情報セキュリティマネジメント) <br>
-  Basic Information Technology Engineer in Japan (基本情報技術者)<br>
-  Applied Information Technology Engineer in Japan (応用情報技術者)<br>
+  Information Security Management Test Passed in Japan (情報セキュリティマネジメント試験　合格) <br>
+  Basic Information Technology Engineer in Japan Test Passed (基本情報技術者試験　合格)<br>
+  Applied Information Technology Engineer in Japan Test Passed (応用情報技術者試験　合格)<br>
 <b>I am preparing to take:</b><br>
   Boki3 Accounting Cerciticate in Japan (日商簿記３) <br>
   Azure AI Fundimentals <br>

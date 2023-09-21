@@ -6,14 +6,12 @@ I am not good at any coding stuffs and I am not good at any Math stuffs.<br>
 My Telegram (written in Chinese):https://t.me/HquarterX2 </p>
 
 <h2>Licenses</h2> 
-  Japanese Level Proficiency Test N1 (日本語能力試験N1)<br>
-  Information Security Management Test Passed in Japan (情報セキュリティマネジメント試験　合格) <br>
-  Basic Information Technology Engineer in Japan Test Passed (基本情報技術者試験　合格)<br>
   Applied Information Technology Engineer in Japan Test Passed (応用情報技術者試験　合格)<br>
+  Basic Information Technology Engineer in Japan Test Passed (基本情報技術者試験　合格)<br>
+  Information Security Management Test Passed in Japan (情報セキュリティマネジメント試験　合格) <br>
+  Japanese Level Proficiency Test N1 (日本語能力試験N1)<br>
 <b>I am preparing to take:</b><br>
-  Boki3 Accounting Cerciticate in Japan (日商簿記３) <br>
-  Azure AI Fundimentals <br>
   RISS（Registered Information Security Specialist）in Japan (情報処理安全確保支援士)
 <h2>Skill Stacks</h2>
-  Python, Html, R, Go, C#......<br>
+  Python, Html, R......<br>
   Blender, Krita, Video editing and some other art stuffs

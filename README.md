@@ -11,7 +11,7 @@ My Telegram (written in Chinese):https://t.me/HquarterX2 </p>
   Information Security Management Test Passed in Japan (情報セキュリティマネジメント試験　合格) <br>
   Japanese Level Proficiency Test N1 (日本語能力試験N1)<br>
 <b>I am preparing to take:</b><br>
-  RISS（Registered Information Security Specialist）in Japan (情報処理安全確保支援士)
+  RISS（Registered Information Security Specialist）Exam in Japan (情報処理安全確保支援士試験)
 <h2>Skill Stacks</h2>
   Python, Html, R......<br>
   Blender, Krita, Video editing and some other art stuffs

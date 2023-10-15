@@ -3,12 +3,12 @@
 <p>Chinese, English and Japanese are all Ok.</p>
 <p> 
 I am not good at any coding stuffs and I am not good at any Math stuffs.<br>
-My Telegram (written in Chinese):https://t.me/HquarterX2 </p>
+My Telegram:https://t.me/HqterX2 </p>
 
-<h2>Licenses</h2> 
-  Applied Information Technology Engineer in Japan Test Passed (応用情報技術者試験　合格)<br>
-  Basic Information Technology Engineer in Japan Test Passed (基本情報技術者試験　合格)<br>
-  Information Security Management Test Passed in Japan (情報セキュリティマネジメント試験　合格) <br>
+<h2>Licenses, Certificates and Passed Exams</h2> 
+  Applied Information Technology Engineer Exam in Japan Passed (応用情報技術者試験　合格)<br>
+  Basic Information Technology Engineer Exam in Japan Passed (基本情報技術者試験　合格)<br>
+  Information Security Management Exam Passed in Japan (情報セキュリティマネジメント試験　合格) <br>
   Japanese Level Proficiency Test N1 (日本語能力試験N1)<br>
 <b>I am preparing to take:</b><br>
   RISS（Registered Information Security Specialist）Exam in Japan (情報処理安全確保支援士試験)

@@ -10,7 +10,7 @@ My Telegram:https://t.me/HqterX2 </p>
   Basic Information Technology Engineer Exam in Japan Passed (基本情報技術者試験　合格)<br>
   Information Security Management Exam Passed in Japan (情報セキュリティマネジメント試験　合格) <br>
   Japanese Level Proficiency Test N1 (日本語能力試験N1)<br>
-<b>I am preparing to take（勉強中）:</b><br>
+<h2>I am preparing to take（勉強中）:</b></h2>
   RISS（Registered Information Security Specialist）Exam in Japan (情報処理安全確保支援士試験)　*Waiting to be announced (結果発表待ち)
   Network Specialist in Japan(ネットワークスペシャリスト試験)
 <h2>Skill Stacks</h2>

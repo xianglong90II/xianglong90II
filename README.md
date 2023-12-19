@@ -3,7 +3,7 @@
 <p>Chinese, English and Japanese are all Ok.</p>
 <p> 
 I am not good at any coding stuffs and I am not good at any Math stuffs.<br>
-My Telegram:https://t.me/HqtrX2 </p>
+My Telegram:https://t.me/HqtX2 </p>
 
 <h2>Licenses, Certificates and Passed Exams（合格）</h2> 
   Applied Information Technology Engineer Exam in Japan Passed (応用情報技術者試験　合格)<br>

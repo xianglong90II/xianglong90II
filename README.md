@@ -11,5 +11,5 @@ My Telegram:https://t.me/HqtX2 </p>
   Information Security Management Exam Passed in Japan (情報セキュリティマネジメント試験　合格) <br>
   Japanese Level Proficiency Test N1 (日本語能力試験N1)<br>
 <h2>Skill Stacks</h2>
-  Python, Web, R......<br>
+  Python, Web, VBA......<br>
   Blender, Krita, Live2D, Video editing and some other art stuffs

@@ -12,4 +12,4 @@ My Telegram:https://t.me/HqtX2 </p>
   Japanese Level Proficiency Test N1 (日本語能力試験N1)<br>
 <h2>Skill Stacks</h2>
   Python, Web, VBA......<br>
-  Blender, Krita, Live2D, Video editing and some other art stuffs
+  Blender, Krita, Live2D, Video editing, Unity and some other art stuffs

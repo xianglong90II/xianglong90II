@@ -8,3 +8,5 @@
   Japanese Level Proficiency Test N1 (日本語能力試験N1)<br>
 <h2>Skill Stacks</h2>
   Python, Blender, Krita, Unity and some other stuffs
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K41V52DS)

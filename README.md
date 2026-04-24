@@ -3,7 +3,7 @@
 #### 喜欢做点VRChat地图，也会做点别的逆天小玩意。现在绝赞失业中。
 可爱男娘给我女装照牛子照帮忙改模做图()
 
-#### QQ: 2017574133 TG：@HqtX2
+#### QQ: 2017574133 TG：https://t.me/HX2xianglong90
 
 
 <p>Chinese, English and Japanese are all Ok.</p>

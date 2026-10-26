@@ -9,6 +9,7 @@
 <p>Chinese, English and Japanese are all Ok.</p>
 
 <h2>Licenses, Certificates and Passed Exams（合格）</h2> 
+  2nd class Qualified Certified Electrician in Japan (第二種電気工事士)<br>
   Applied Information Technology Engineer Exam in Japan Passed (応用情報技術者試験　合格)<br>
   Fundamental Information Technology Engineer Exam in Japan Passed (基本情報技術者試験　合格)<br>
   Japanese Level Proficiency Test N1 (日本語能力試験N1)<br>
